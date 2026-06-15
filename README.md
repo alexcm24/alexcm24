@@ -20,7 +20,7 @@ Custom CRM and ticketing system built for a real jewelry business client. Curren
 Personalized travel companion app that pulls real-time data from 3 APIs to generate itineraries. Won 1st place out of 45 teams at the UNF Computing Symposium 2025.
 `Node.js` `TypeScript` `Supabase`
 
-### [Color Reader](https://github.com/alexcm24/color-reader)
+### [Color Reader](https://github.com/alexcm24/color-reader) · [Live](https://color-reader-one.vercel.app/)
 Accessible web app that identifies and names dominant colors in uploaded images using k-means clustering and LAB color space matching.
 `Next.js` `TypeScript` `Tailwind CSS`
 
