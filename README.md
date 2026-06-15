@@ -8,7 +8,7 @@ I'm actively looking for a software engineering internship (summer, fall, or spr
 
 ## Featured Projects
 
-### [Stockseer](https://github.com/alexcm24/stockseer)
+### [Stockseer](https://github.com/alexcm24/stockseer) · [Live](https://stockseer-three.vercel.app/)
 Stock price prediction app using machine learning. Fetches 2 years of market data, trains a linear regression model, and visualizes actual vs. predicted closing prices.
 `Python` `FastAPI` `scikit-learn` `Next.js` `TypeScript`
 
